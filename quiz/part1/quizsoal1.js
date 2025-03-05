@@ -23,7 +23,7 @@ let peran = 'Ksatria';
 if (nama === '') {
     console.log('')
 }   else {
-    console.log('Nama wajib diisi!')
+    console.log(nama);
 }
 if (peran === ' ') {
     console.log(' ')
